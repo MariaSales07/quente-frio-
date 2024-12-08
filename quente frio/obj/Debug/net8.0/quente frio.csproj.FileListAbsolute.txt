@@ -1,0 +1,14 @@
+C:\Users\Maria\quente frio\bin\Debug\net8.0\quente frio.exe
+C:\Users\Maria\quente frio\bin\Debug\net8.0\quente frio.deps.json
+C:\Users\Maria\quente frio\bin\Debug\net8.0\quente frio.runtimeconfig.json
+C:\Users\Maria\quente frio\bin\Debug\net8.0\quente frio.dll
+C:\Users\Maria\quente frio\bin\Debug\net8.0\quente frio.pdb
+C:\Users\Maria\quente frio\obj\Debug\net8.0\quente frio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\quente frio\obj\Debug\net8.0\quente frio.AssemblyInfoInputs.cache
+C:\Users\Maria\quente frio\obj\Debug\net8.0\quente frio.AssemblyInfo.cs
+C:\Users\Maria\quente frio\obj\Debug\net8.0\quente frio.csproj.CoreCompileInputs.cache
+C:\Users\Maria\quente frio\obj\Debug\net8.0\quente frio.dll
+C:\Users\Maria\quente frio\obj\Debug\net8.0\refint\quente frio.dll
+C:\Users\Maria\quente frio\obj\Debug\net8.0\quente frio.pdb
+C:\Users\Maria\quente frio\obj\Debug\net8.0\quente frio.genruntimeconfig.cache
+C:\Users\Maria\quente frio\obj\Debug\net8.0\ref\quente frio.dll
